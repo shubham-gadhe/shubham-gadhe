@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm **Shubham Gadhe**
 
-### Java Developer | Full Stack Java Learner | Computer Engineering Graduate
+### ☕ Java Developer | Full Stack Java Learner | MCA Graduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Java+Learner;Backend+Development+Enthusiast;DSA+%7C+SQL+%7C+Git+%26+GitHub;Open+to+Software+Development+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Java+Developer;Backend+Development+Enthusiast;Full+Stack+Java+Learner;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Open+to+Software+Developer+Roles" alt="Typing SVG" />
 
 </div>
 
@@ -12,14 +12,14 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Engineering Graduate** with a strong interest in **Java Backend Development** and **Full Stack Java Development**.
+I'm an **MCA (Master of Computer Applications) Graduate** passionate about **Java Backend Development** and **Full Stack Java Development**.
 
-I enjoy building real-world applications, solving programming problems, and continuously improving my software engineering skills.
+I enjoy building scalable applications, solving programming challenges, and continuously improving my software development skills.
 
-* 💼 Looking for **Software Developer / Java Developer** opportunities
-* 🌱 Currently learning **Spring Boot**, **REST APIs**, and **Microservices**
-* 💻 Strong foundation in **Core Java, JDBC, Servlets, JSP, SQL**
-* 📚 Practicing **Data Structures & Algorithms**
+* 💼 Open to **Software Developer / Java Developer** opportunities
+* 🌱 Currently learning **Spring Boot, REST APIs, Hibernate, and Microservices**
+* 💻 Skilled in **Core Java, JDBC, Servlets, JSP, SQL, HTML, CSS, JavaScript**
+* 📚 Regularly practicing **Data Structures & Algorithms**
 * 🚀 Passionate about writing clean, maintainable, and efficient code
 
 ---
@@ -41,13 +41,16 @@ I enjoy building real-world applications, solving programming problems, and cont
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
+**Technologies**
+
+* Core Java
+* JDBC
 * JSP
 * Servlets
-* JDBC
-
-</p>
+* Spring Boot (Learning)
 
 ### Database
 
@@ -55,7 +58,7 @@ I enjoy building real-world applications, solving programming problems, and cont
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
@@ -63,35 +66,26 @@ I enjoy building real-world applications, solving programming problems, and cont
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Project
 
-## 🏠 Online Interior Design Website System
+## 🏠 Online Interior Design Website
 
-A full-stack web application developed during my internship.
+**Tech Stack:** Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript
 
 ### Features
 
 * User Authentication
 * Admin Dashboard
 * Interior Design Gallery
-* Booking System
+* Booking Management
 * Contact Management
 * MySQL Database Integration
 
-**Tech Stack**
-
-* Java
-* JSP
-* Servlets
-* JDBC
-* MySQL
-* HTML
-* CSS
-* JavaScript
-
 ---
 
-## 📚 Java Programming
+# 📚 Programming Skills
+
+### Java
 
 * Object-Oriented Programming
 * Exception Handling
@@ -100,56 +94,48 @@ A full-stack web application developed during my internship.
 * File Handling
 * JDBC
 
----
+### C Programming
 
-## 💻 C Programming
-
-* Pattern Problems
 * Arrays
-* Functions
 * Strings
+* Functions
 * Pointers
 * File Handling
 
----
-
-## 📖 Data Structures & Algorithms
-
-Currently solving problems on
+### Data Structures & Algorithms
 
 * Arrays
 * Strings
 * Linked Lists
-* Stack
-* Queue
+* Stack & Queue
 * Trees
 * Recursion
 * Searching & Sorting
 
 ---
 
-# 📈 Current Learning
+# 🌱 Currently Learning
 
 * Spring Boot
 * REST APIs
 * Hibernate
 * Microservices
-* System Design Basics
+* System Design Fundamentals
 
 ---
 
-# 🏆 Goals for 2026
+# 🎯 Career Goals
 
-* ✅ Become a Professional Java Backend Developer
-* ✅ Master Spring Boot
-* ✅ Build Production-Level Projects
-* ✅ Contribute to Open Source
-* ✅ Strengthen DSA
-* ✅ Secure a Software Developer Role
+* Become a Professional Java Backend Developer
+* Master Spring Boot & Microservices
+* Build Production-Ready Projects
+* Contribute to Open Source
+* Strengthen DSA Skills
+* Secure a Software Developer Role
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -183,6 +169,6 @@ Currently solving problems on
 
 ### 💡 *"Code. Learn. Build. Repeat."*
 
-*"Success in software engineering comes from continuous learning and consistent practice."*
+*"Continuous learning and consistent practice are the foundation of great software engineering."*
 
 </div>
