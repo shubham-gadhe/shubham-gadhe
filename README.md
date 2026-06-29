@@ -86,3 +86,41 @@ Passionate about continuous learning, solving real-world problems, and building 
 * Software Design Principles
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham-gadhe&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-gadhe&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-gadhe&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shubham-gadhe">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Code. Learn. Build. Repeat."*
+
+*"Continuous learning and consistent practice are the foundation of great software engineering."*
+
+</div>
