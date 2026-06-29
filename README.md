@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm **Shubham Gadhe**
 
-### **Software Developer | Backend Development | Java • C • C++ | Spring Boot | SQL | AWS Cloud**
+### **Software Developer | Backend Development | Java • C • C++ • Python | Spring Boot | SQL | AWS Cloud**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Development;Java+%7C+C+%7C+C%2B%2B;Spring+Boot+%7C+REST+APIs;SQL+%7C+MySQL+%7C+MongoDB;AWS+Cloud+%7C+Git+%7C+Maven;Problem+Solver+%7C+Continuous+Learner" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Development;Java+%7C+C+%7C+C%2B%2B+%7C+Python;Spring+Boot+%7C+REST+APIs;SQL+%7C+MySQL+%7C+MongoDB;AWS+Cloud+%7C+Git+%7C+Maven;Data+Structures+%7C+Problem+Solving" alt="Typing SVG"/>
 
 </div>
 
@@ -12,11 +12,11 @@
 
 # 💼 Professional Summary
 
-Software Developer with a strong foundation in **Computer Science**, specializing in **backend application development** using Java and modern software engineering practices.
+Software Developer with a strong foundation in **Computer Science** and **Software Engineering**, specializing in backend application development using Java and modern software development practices.
 
-Experienced in designing efficient, scalable, and maintainable software solutions with a solid understanding of **object-oriented programming, data structures, algorithms, database systems, computer networks, operating systems, and software development principles**.
+Experienced in designing clean, scalable, and maintainable software solutions with a solid understanding of object-oriented programming, data structures, algorithms, database systems, operating systems, computer networks, and software design principles.
 
-Passionate about continuous learning, solving real-world problems, and building reliable applications with clean, maintainable code.
+Passionate about solving real-world problems, building reliable applications, and continuously improving technical expertise across programming languages, backend technologies, cloud computing, and software architecture.
 
 ---
 
@@ -25,20 +25,20 @@ Passionate about continuous learning, solving real-world problems, and building 
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
 </p>
 
-> **Java • C • C++ • SQL • JavaScript**
+> **Java • C • C++ • Python • SQL • JavaScript**
 
 ---
 
 ### ⚙️ Backend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-> **Spring Boot • REST APIs • JDBC • Servlets • JSP**
+> **Spring Boot • REST APIs • JDBC • Servlets • JSP • Maven**
 
 ---
 
@@ -55,10 +55,10 @@ Passionate about continuous learning, solving real-world problems, and building 
 ### ☁️ Cloud & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,maven,docker,postman,vscode,idea,eclipse" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,maven,docker,linux,postman,vscode,idea,eclipse" />
 </p>
 
-> **AWS Cloud • Git • GitHub • Maven • Docker • Postman**
+> **AWS Cloud • Git • GitHub • Maven • Docker • Linux • Postman**
 
 ---
 
@@ -67,8 +67,8 @@ Passionate about continuous learning, solving real-world problems, and building 
 * Data Structures & Algorithms
 * Object-Oriented Programming (OOP)
 * Database Management Systems (DBMS)
-* Computer Networks
 * Operating Systems
+* Computer Networks
 * Computer Architecture
 * Memory Management
 * Multithreading
@@ -80,14 +80,14 @@ Passionate about continuous learning, solving real-world problems, and building 
 * Backend Development
 * Software Development Life Cycle (SDLC)
 * Design Patterns
-* Problem Solving
 * Debugging
 * Version Control
+* Problem Solving
 * Software Design Principles
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -109,8 +109,12 @@ Passionate about continuous learning, solving real-world problems, and building 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/shubham-gadhe">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/shubham-gadhe" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -119,8 +123,8 @@ Passionate about continuous learning, solving real-world problems, and building 
 
 <div align="center">
 
-### 💡 *"Code. Learn. Build. Repeat."*
+### **Building Reliable Software Through Clean Code & Continuous Improvement**
 
-*"Continuous learning and consistent practice are the foundation of great software engineering."*
+*Turning ideas into scalable software solutions through strong engineering fundamentals.*
 
 </div>
