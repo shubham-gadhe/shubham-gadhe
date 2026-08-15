@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Gadhe
 
-**Software Developer |**
+**Software Developer**
 
 I am an MCA graduate passionate about software development and software engineering. I enjoy building scalable, maintainable, and high-efficient software applications while continuously improving my problem-solving and programming skills.
 
