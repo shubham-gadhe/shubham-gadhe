@@ -1,81 +1,165 @@
 # Hi, I'm Shubham Gadhe
 
-**Software Developer**
+**Software Developer | Java | Spring Boot | REST APIs | SQL | AWS**
 
-I am an MCA graduate passionate about software development and software engineering. I enjoy building scalable, maintainable, and high-efficient software applications while continuously improving my problem-solving and programming skills.
+MCA Graduate | Open to Software Developer Opportunities
 
 ---
 
 ## About Me
 
-* MCA Graduate
-* Interested in Software Development and Software Engineering
-* AWS re/Start Graduate
-* Regularly practicing Data Structures and Algorithms
-* Goal: Build scalable, maintainable, and high-efficient software applications
+* MCA Graduate with a strong interest in Software Development and Engineering
+* Focused on Java, Spring Boot, REST APIs, JPA/Hibernate, and SQL
+* Learning Spring Security and JWT-based authentication
+* Practicing Data Structures & Algorithms and Core Java concepts
+* AWS Certified Cloud Practitioner
+* Interested in building clean, maintainable, and scalable applications
+* Open to Software Developer opportunities
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Programming Languages
+**Languages:**
+Java, C, C++, Python
 
-* Java
+**Backend & Development:**
+Spring Boot, REST APIs, JPA, Hibernate, JDBC, Maven
+
+**Databases:**
+MySQL, MongoDB, SQL
+
+**Security:**
+Spring Security, JWT, BCrypt
+
+**Cloud & DevOps:**
+AWS, Docker, Git, GitHub
+
+**Tools:**
+IntelliJ IDEA, VS Code, Postman, Linux
+
+---
+
+## Core Computer Science
+
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Multithreading · Exception Handling · JVM
+
+---
+
+## Projects
+
+### Digital Banking Portal
+
+A banking application developed using Java and Spring Boot.
+
+**Features:**
+
+* Customer registration and management
+* Customer CRUD operations
+* User authentication and authorization
+* JWT-based authentication
+* Role-based access control
+* RESTful APIs
+* MySQL database integration
+* JPA/Hibernate persistence
+* Spring Security
+* Postman API testing
+
+**Technologies:**
+Java, Spring Boot, Spring Security, JWT, JPA, Hibernate, MySQL, Maven, Postman
+
+---
+
+### Java Client-Server Chat Application
+
+A Java-based client-server chat application demonstrating socket programming, TCP/IP communication, GUI development, and multithreading.
+
+**Features:**
+
+* Client-server architecture
+* TCP/IP socket communication
+* Two-way messaging
+* Multithreaded communication
+* Java Swing GUI
+* Connection handling
+* Non-blocking message reception
+
+**Technologies:**
+Java, Swing, Socket Programming, TCP/IP, Multithreading
+
+---
+
+### Java Study Tracker
+
+A Core Java application for managing daily study sessions.
+
+**Features:**
+
+* Daily study session tracking
+* Date-wise and subject-wise summaries
+* Collection-based data management
+* CSV export
+* File handling
+* Exception handling
+
+**Technologies:**
+Java, Collections, File Handling, LocalDate, CSV
+
+---
+
+### Programming
+
+A personal learning repository containing programming exercises, algorithms, problem-solving practice, and fundamental Computer Science concepts.
+
+**Topics:**
+
+* C Programming
 * C++
-* C
+* Java
+* Data Structures
+* Algorithms
+* Pattern Programming
+* OOP
+* Problem Solving
 
-### Backend
+---
 
-* Spring Boot
-* REST APIs
-* JDBC
-* Servlets
-* JSP
-* Maven
+## Currently Learning
 
-### Database
-
-* MySQL
-* MongoDB
-
-### Cloud & Tools
-
-* AWS
-* Git
-* GitHub
+* Advanced Spring Boot
+* Spring Security
+* REST API Development
+* Microservices
+* System Design Fundamentals
+* AWS Cloud Deployment
 * Docker
-* Linux
-* Postman
-* IntelliJ IDEA
-* Eclipse
-* VS Code
-
----
-
-## Computer Science Fundamentals
-
 * Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Database Management Systems (DBMS)
-* Operating Systems
-* Computer Networks
-* Computer Architecture
-* Memory Management
-* Multithreading
 
 ---
 
-## What I Do
+## Certifications
 
-* Build scalable and high-performance software applications
-* Develop backend systems and RESTful APIs
-* Design clean, maintainable, and reusable code
-* Build applications using Object-Oriented Programming principles
+* AWS Certified Cloud Practitioner
+* AWS re/Start Graduate
+* NPTEL Java Programming
+
+---
+
+## Career Focus
+
+I am focused on building my career as a **Software Developer**.
+
+**Current Learning Path:**
+
+Java → Spring Boot → REST APIs → JPA/Hibernate → SQL → Spring Security → Microservices → AWS
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/shubham-gadhe
+* **LinkedIn:** https://www.linkedin.com/in/shubham-gadhe
+* **GitHub:** https://github.com/shubham-gadhe
 
 ---
+
+Thanks for visiting my profile.
