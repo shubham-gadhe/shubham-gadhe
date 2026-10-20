@@ -2,14 +2,13 @@
 
 **Software Development Engineer | Java Backend Developer | Spring Boot | REST APIs | MySQL | AWS**
 
-MCA Graduate (2026) | 6-Month Java Backend Internship Experience | Open to Software Engineering Opportunities
+MCA Graduate (2026) | 6-Month Java Backend Experience | Open to Software Engineering Opportunities
 
 ---
 
 ## About Me
 
 - MCA graduate with hands-on experience in Java backend development.
-- Completed a six-month internship at GTL Software Pvt. Ltd., Pune.
 - Experienced with Java, Servlets, JSP, JDBC, Spring Boot, REST APIs, and SQL databases.
 - Solved **500+ coding problems** across C, C++, and Java.
 - Interested in backend architecture, secure APIs, database design, and scalable applications.
@@ -49,7 +48,7 @@ Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating
 
 ## Experience
 
-### Java Backend Developer Intern — GTL Software Pvt. Ltd., Pune
+### Software Backend Developer — GTL Software Pvt. Ltd., Pune
 
 **January 2026 – June 2026**
 
